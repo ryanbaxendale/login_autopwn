@@ -201,22 +201,6 @@ on ready {
 	
 	println("\U                                             ");
 	println("\c5Ryan Baxendale rbaxendale [at> gmail [.> com");
-	println("\c0    Security-Assessment.com			");
-	println("\cE        (  .     )						");
-	println("\cE        `)          (					");
-	println("\cF     .     '  . '  `.					");
-	println("\cF     (    , )     (,					");
-	println("\c5  .   `.' ) ('.    ',					");
-	println("\c4   ). , ('.   ( ) (						");
-	println("\c4  (_,) .`), ) _ _,						");
-	println("\c0 /  _____/  / _  \\     ____  ____   _____			");
-	println("\c0 \\____  \\==/ /_\\  \\  _/ ___\\/  _ \\ /     \\		");
-	println("\c0 /       \\/   |    \\ \\  \\__(  <_> )  Y Y  \\		");
-	println("\c0/______  /\\___|__  /  \\____ >____/|__|_|  /		");
-	println("\c0       \\/        \\/  \c5.-.\c0   \\/           \\/:wq	");
-	println("\c5                    (x.0)					");
-	println("\c5                  '=.|w|.='					");
-	println("\c5                  _='`\"``=.				");
 	println("\U                                             ");
 	
 	if ($pass_replay eq "1" ) {
