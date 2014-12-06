@@ -1,6 +1,6 @@
 # login_autopwn.cna
 #
-# Ryan Baxendale - Security-Assessment.com
+# Ryan Baxendale
 # rbaxendale [at] gmail [.] com
 #
 #------------------------------------------------------------------------------  
@@ -195,7 +195,7 @@ global('$debug $spm');
 $debug = 0;
 $spm = 0;
 
-# print the awesome SA ascii art and setup some things
+# setup some things
 on ready {
 	get_my_ip();
 	
